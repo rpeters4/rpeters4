@@ -1,37 +1,39 @@
+
 # Hi there, I'm Ryan Peters 👋
 
-I'm a software developer with a strong focus on data science and formal methods. I love working with various programming languages and frameworks to solve complex problems.
+**Support Analyst II at Syracuse University** | **Developer** | **Community Leader**  
+He/Him · Jamesville, NY · Email: rpeter01@syr.edu | petersryan1993@gmail.com · LinkedIn: https://www.linkedin.com/in/rynptrs/
 
-My research interests include political topology/topography datasets and anaylizing their features to promote a more engaged voter base in the United States.
+I’m a Support Analyst II at Syracuse University’s ITS Service Center and a software developer with a focus on **data science** and **formal methods**. I build systems and training programs that scale, mentor student employees, and optimize workflows that improve support outcomes across campus.
 
-I have secondary interests with game development and am always adding dev manuals for coding/inspiration projects I'm currently working on. 
+- **Impact:** Resolved **17,887** client interactions via Orange Tracker/Jira across students, faculty, staff, applicants, parents, and alumni.  
+- **Leadership:** Manage and mentor **~30 student employees**, including hiring, training, 1:1 coaching, and semester refreshers.  
+- **Training:** Designed **Blackboard Ultra** onboarding modules and a pilot refresher program; metricized progress to target improvements.  
+- **Ops & Automation:** Built **Orange Tracker dashboards/views** (ITSSVC & ITSDPF), promoted linked-ticket usage, and introduced a **Network Escalation form**.  
+- **Knowledge Base:** Led **Answers** content updates and lifecycle management with **Google Sheets + IMPORTXML** for obsolescence tracking.  
+- **Tools:** Integrated **Copilot** to streamline repetitive instructions and speed up response time.  
+- **Recognition:** Rated **Exceeds Expectations** in the 2024 Performance Partnership Review.
+
+## 🔭 Current Projects
+- **Video Game Demo (Unity):** Gameplay systems + prototyping.  
+- **Training Optimization/Review:** Student Consultant Training—assessment, refresh cycles, performance analytics.  
+- **New Employee Orientation:** Intro to campus technologies and ITS services (materials + sessions).
 
 ## 🛠️ Skills
-- **Languages**: Python, C++, C#, Racket, Swift
-- **Data Science Frameworks**: pandas, Polars, numpy
-- **Formal Methods**: TLA+
-- **Tools**: Git, Docker, Xcode, Unity
+- **Languages:** Python, C++, C#, Racket, Swift  
+- **Data Science:** pandas, Polars, NumPy  
+- **Formal Methods:** TLA+  
+- **Tools:** Jira/Orange Tracker, Bomgar, Microsoft 365 & Teams, Zoom, Git, Docker, Xcode, Unity, TextExpander, Google Sheets (IMPORTXML), Copilot
 
-## 📊 Data Science
-I have extensive experience working with data science frameworks like **pandas** and **Polars**. These tools help me efficiently manipulate and analyze large datasets, enabling data-driven decision-making and insightful visualizations.
+## 🧭 Leadership & Initiatives
+- **PolitiTag (Founder, Nov 2022–Present):** Innovating personal political engagement and advocacy; **Syracuse University Impact Prize Finalist**.  
+- **YourSpace (Founder, Sep 2022–Nov 2025):** Community-connection platform enabling passive income for local residents.  
+- **RESNET Inc (Director at Large & Senti-Merriman Chair, Nov 2022–Nov 2023):** Strategy, resource development, and student technology conference leadership.
 
-## 🔍 Formal Methods with TLA+
-I also work with **TLA+**, a formal specification language used to design, model, document, and verify concurrent systems and algorithms. TLA+ helps ensure the correctness of complex systems by allowing precise descriptions of system behaviors and properties, which can be rigorously checked for logical consistency.
+## 🔍 Research Interests
+- **Political topology/topography datasets** for civic engagement.  
+- **Game development** and creative coding (dev manuals + inspiration projects).
 
 ## 📫 How to reach me
-- Email: rpeter01@syr.edu | petersryan1993@gmail.com
+- Email: rpeter01@syr.edu | petersryan1993@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/rynptrs/
-<!--
-**rpeters4/rpeters4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
