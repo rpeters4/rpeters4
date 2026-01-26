@@ -11,8 +11,6 @@ I’m a Support Analyst II at Syracuse University’s ITS Service Center and a s
 - **Training:** Designed **Blackboard Ultra** onboarding modules and a pilot refresher program; metricized progress to target improvements.  
 - **Ops & Automation:** Built **Orange Tracker dashboards/views** (ITSSVC & ITSDPF), promoted linked-ticket usage, and introduced a **Network Escalation form**.  
 - **Knowledge Base:** Led **Answers** content updates and lifecycle management with **Google Sheets + IMPORTXML** for obsolescence tracking.  
-- **Tools:** Integrated **Copilot** to streamline repetitive instructions and speed up response time.  
-- **Recognition:** Rated **Exceeds Expectations** in the 2024 Performance Partnership Review.
 
 ## 🔭 Current Projects
 - **Video Game Demo (Unity):** Gameplay systems + prototyping.  
